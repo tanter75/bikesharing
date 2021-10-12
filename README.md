@@ -14,8 +14,6 @@ The results of the bike sharing data from New York City is used to determine the
 By using Tableau to visualize the results, we can determine that the majority of CitiBike users are subscribers (81%) compared to occasional users (18.9%).
 When looking at usage by gender can gain additional insight as 65.28% of all riders are male and 25.1% are female.  This could be an important consideration understanding the type of bike required for customer.  Analysis has also shown that lowest usage occurs between 1-4am, which is when it is recommended to complete bicycle maintenance in order to minimize impact for users.
 
-Link to Dashboard: https://prod-ca-a.online.tableau.com/#/site/citibike/views/Citi_Bikes/CitiBikeAnalysis?:iid=2
-
 ## Summary of Analysis:
 ###
 The CitiBike bike sharing model is very successful in New York City.  In 2019, New York City had a population of 8.4 million and in August alone there were 2.3 million users of CitiBikes.  In order to understand if the CitiBike model can be scaled and successful in Des Moines there are a few important considerations to understand.
