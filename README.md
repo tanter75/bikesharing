@@ -14,10 +14,6 @@ The results of the bike sharing data from New York City is used to determine the
 By using Tableau to visualize the results, we can determine that the majority of CitiBike users are subscribers (81%) compared to occasional users (18.9%).
 When looking at usage by gender can gain additional insight as 65.28% of all riders are male and 25.1% are female.  This could be an important consideration understanding the type of bike required for customer.  Analysis has also shown that lowest usage occurs between 1-4am, which is when it is recommended to complete bicycle maintenance in order to minimize impact for users.
 
-- Show the length of time that bikes are checked out for all riders and genders
-- Show the number of bike trips for all riders and genders for each hour of each day of the week
-- Show the number of bike trips for each type of user and gender for each day of the week.
-
 Link to Dashboard: https://prod-ca-a.online.tableau.com/#/site/citibike/views/Citi_Bikes/CitiBikeAnalysis?:iid=2
 
 ## Summary of Analysis:
