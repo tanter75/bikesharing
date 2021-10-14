@@ -20,6 +20,6 @@ The CitiBike bike sharing model is very successful in New York City.  In 2019, N
 - The population of Des Moines in 2019 is 699,292 vs. 8.4 million in New York City
 - The square milage of Des Moines is 88.2 sq. miles with a population density of 2,389.70/sq mile as compared to New York which is 300.46 sq miles and a population density of 27,400/sq mile.
 
-Link to dashboard: https://public.tableau.com/views/CitiBike_Analysis_16340817706980/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Link to dashboard: https://public.tableau.com/views/CitiBike_Analysis_16340817706980/CitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 In order to truly gauge the feasibility of CitiBike in Des Moines it is recommended that similar bike sharing data is compared from other cities in the US that are similar in size, demographic and weather.  While the CitiBike program is extremely successful in New York City, the differences are too great to be able to predict if this model would be successful in Des Moines with a high degree of certainty.  Additional analysis is recommended by comparing the bike sharing results of Washington, DC and Columbus, Ohio, both of which had similar population to Des Moines in 2019.
