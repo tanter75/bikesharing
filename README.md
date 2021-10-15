@@ -15,7 +15,6 @@ By using Tableau to visualize the results, we can determine that the majority of
 When looking at usage by gender can gain additional insight as 65.28% of all riders are male and 25.1% are female.  This could be an important consideration understanding the type of bike required for customer.  Analysis has also shown that lowest usage occurs between 1-4am, which is when it is recommended to complete bicycle maintenance in order to minimize impact for users.
 
 ![image](https://user-images.githubusercontent.com/86161212/137529327-8f663155-8b93-46ae-a893-753a5be8aec4.png)
-![image](https://user-images.githubusercontent.com/86161212/137529521-3475e882-dce1-4add-bc84-349ec5ecc405.png)
 ![image](https://user-images.githubusercontent.com/86161212/137529600-a321e896-2fbf-4be3-99ff-ab9d84e88a53.png)
 ![image](https://user-images.githubusercontent.com/86161212/137529690-6467afcc-ccaf-413f-90a4-cc0f767254dc.png)
 ![image](https://user-images.githubusercontent.com/86161212/137529755-e4ac4069-6cfc-4eee-93ec-4de71cca1bcb.png)
